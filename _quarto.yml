@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+  resources: 
+    - custom.scss
+
+website:
+  title: "Bets Ruscoe"
+  favicon: logo.png
+  site-url: https://dicook.org
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Education
+        href: education.qmd
+    right:
+      - icon: github
+        href: https://github.com/dicook/dicook-quarto      
+
+body-footer: | 
+  Copyright:  Bets Ruscoe, 2026
+
+date-format: "D MMMM YYYY"
+
+format:
+  html:
+    theme: 
+      - pulse
+      - custom.scss
+    toc: true
+

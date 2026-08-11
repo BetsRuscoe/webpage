@@ -1,0 +1,12 @@
+---
+title: "Education"
+---
+
+## Degrees
+
+| year  | degree | institution |
+|:------|:------|:------|
+| 1982  | B.Sc./Dip. Ed. (Math/Stat/Biochem) | University of New England, Armidale, Australia |
+| 1991  | M.Sc (Statistics) | Rutgers University, New Jersey, USA |
+|1993   | Ph.D (Statistics) | Rutgers University, New Jersey, USA |
+
