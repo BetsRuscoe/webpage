@@ -11,8 +11,8 @@ about:
       href: mailto:betsruscoe@gmail.com
     - icon: github
       href: https://github.com/BetsRuscoe
-    - text: scholar
-      href: https://scholar.google.com/citations?user=_b0uchgAAAAJ&hl=en    
+    #- text: scholar
+    #  href: https://scholar.google.com/citations?user=_b0uchgAAAAJ&hl=en    
     - text: orcid
       href: https://orcid.org/0009-0005-5690-9074
     - text: NUMBATs

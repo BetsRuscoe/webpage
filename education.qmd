@@ -6,7 +6,7 @@ title: "Education"
 
 | year  | degree | institution |
 |:------|:------|:------|
-| 1982  | B.Sc./Dip. Ed. (Math/Stat/Biochem) | University of New England, Armidale, Australia |
-| 1991  | M.Sc (Statistics) | Rutgers University, New Jersey, USA |
-|1993   | Ph.D (Statistics) | Rutgers University, New Jersey, USA |
+| 2020  | B.Com (Business Analytics/Econometrics) | Monash University, Melbourne, AUS |
+| 2021  | Hons (Business Analytics/Econometrics) | Monash University, Melbourne, AUS |
+| 2028   | Ph.D (Statistics) | Monash University, Melbourne, AUS |
 
