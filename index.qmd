@@ -16,7 +16,7 @@ about:
     - text: orcid
       href: https://orcid.org/0009-0005-5690-9074
     - text: linkedin
-      href: www.linkedin.com/in/bets-ruscoe-a99a75171
+      href: https://linkedin.com/in/bets-ruscoe-a99a75171
     - text: NUMBATs
       href: https://numbat.space
 ---
