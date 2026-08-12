@@ -6,4 +6,4 @@ title: "Conferences"
 
 | year  | conference | presentation | slides |
 |:------|:------|:------|:------|
-| 2026  | IAAE | Demographic Parity Gaps and Treatment Rules | x |
+| 2026  | IAAE | Demographic Parity Gaps and Treatment Rules | [View slides](slides/presentation_shortened.pdf) |
