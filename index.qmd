@@ -23,6 +23,5 @@ about:
 
 ::: {#hero-heading}
 
-Bets does Phd
-
+Bets is completing her PhD in the Department of Econometrics and Business Statistics at Monash University. Her research examines fairness in both traditional econometric models and more complex data science settings.
 :::
