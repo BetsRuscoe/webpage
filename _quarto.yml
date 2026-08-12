@@ -18,7 +18,9 @@ website:
         href: education.qmd
     right:
       - icon: github
-        href: https://github.com/BetsRuscoe     
+        href: https://github.com/BetsRuscoe  
+      - text: linkedin
+        href: www.linkedin.com/in/bets-ruscoe-a99a75171
 
 body-footer: | 
   Copyright:  Bets Ruscoe, 2026
